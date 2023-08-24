@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e2790240.css",
+    "main.js": "/static/js/main.cb4e0cba.js",
+    "static/js/787.608624c5.chunk.js": "/static/js/787.608624c5.chunk.js",
+    "static/media/irvins-profile-logo.png": "/static/media/irvins-profile-logo.c4478472362b225ac8b6.png",
+    "static/media/irvins-logo.png": "/static/media/irvins-logo.7f683840c67912b69993.png",
+    "index.html": "/index.html",
+    "main.e2790240.css.map": "/static/css/main.e2790240.css.map",
+    "main.cb4e0cba.js.map": "/static/js/main.cb4e0cba.js.map",
+    "787.608624c5.chunk.js.map": "/static/js/787.608624c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2790240.css",
+    "static/js/main.cb4e0cba.js"
+  ]
+}
